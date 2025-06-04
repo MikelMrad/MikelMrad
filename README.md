@@ -11,7 +11,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/mikel mrad" target="blank">
+  <a href="https://linkedin.com/in/mikel-mrad-71aa34301/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;" />
   </a>
 </p>
@@ -35,6 +35,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="margin: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin: 10px;" />
 </p>
 
 ---
