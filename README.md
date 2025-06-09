@@ -32,8 +32,16 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 10px;" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin: 10px;" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F321806%2Fnext-js&psig=AOvVaw33AaugGf5hQh3Vlgpsh7Ae&ust=1749532865549000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCZ7PnL440DFQAAAAAdAAAAABAE)" alt="Next.js" width="40" height="40" style="margin: 10px; background-color: white; padding: 6px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/MarioTerron/logo-images/master/logos/expressjs.png" alt="ExpressJS" width="40" height="40" style="background-color:white; padding:2px; border-radius:5px; width=100px ; height=auto;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+     alt="Next.js"
+     width="50"
+     height="30"
+     style="padding:4px; border-radius:6px; background-image: url('https://via.placeholder.com/50x30/ffffff'); background-size: cover;" />
+  <img src="https://raw.githubusercontent.com/MarioTerron/logo-images/master/logos/expressjs.png"
+     alt="ExpressJS"
+     width="50"
+     height="30"
+     style="padding:4px; border-radius:6px; background-image: url('https://via.placeholder.com/50x30/ffffff'); background-size: cover;" />
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin: 10px;" />
 </p>
