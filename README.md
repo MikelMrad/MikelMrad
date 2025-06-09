@@ -32,8 +32,8 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 10px;" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" style="margin: 10px; background-color: white; padding: 6px; border-radius: 8px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40" style="margin: 10px; background-color: white; padding: 6px; border-radius: 8px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nextjs-logo.svg/512px-Nextjs-logo.svg.png" alt="Next.js" width="40" height="40" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40" style="margin: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin: 10px;" />
 </p>
