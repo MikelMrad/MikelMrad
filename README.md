@@ -39,7 +39,7 @@
      style="padding:4px; border-radius:6px; background-image: url('https://via.placeholder.com/50x30/ffffff'); background-size: cover;" />
   <img src="https://raw.githubusercontent.com/MarioTerron/logo-images/master/logos/expressjs.png"
      alt="ExpressJS"
-     width="50"
+     width="80"
      height="30"
      style="padding:4px; border-radius:6px; background-image: url('https://via.placeholder.com/50x30/ffffff'); background-size: cover;" />
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" style="margin: 10px;" />
