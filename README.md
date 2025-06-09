@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 10px;" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin: 10px;" />
   <img src="[https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F321806%2Fnext-js&psig=AOvVaw33AaugGf5hQh3Vlgpsh7Ae&ust=1749532865549000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCZ7PnL440DFQAAAAAdAAAAABAE)" alt="Next.js" width="40" height="40" style="margin: 10px; background-color: white; padding: 6px; border-radius: 8px;" />
-  <img src="https://raw.githubusercontent.com/UtkarshVerma128/ExpressJS-logo/master/express.png" alt="Express.js" width="40" height="40" style="margin: 10px; background-color: white; padding: 6px; border-radius: 8px;" />
+  <img src="[![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)" alt="Express.js" width="40" height="40" style="margin: 10px; background-color: white; padding: 6px; border-radius: 8px;" />
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin: 10px;" />
 </p>
