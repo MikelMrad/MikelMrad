@@ -32,11 +32,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 10px;" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-     alt="Next.js"
-     width="50"
-     height="30"
-     style="padding:4px; border-radius:6px; background-image: url('https://via.placeholder.com/50x30/ffffff'); background-size: cover;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/MarioTerron/logo-images/master/logos/expressjs.png"
      alt="ExpressJS"
      width="80"
