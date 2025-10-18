@@ -11,7 +11,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/mikel-mrad-71aa34301/" target="_blank">
+  <a href="https://linkedin.com/in/mikel-mrad/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;" />
   </a>
 </p>
