@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikel Mrad</h1>
-<h3 align="center">Junior Frontend Developer | Styling Enthusiast | Passionate About Building Scalable Web Applications</h3>
+<h3 align="center">Frontend Developer | Styling Enthusiast | Passionate About Building Scalable Web Applications</h3>
 
 ---
 
