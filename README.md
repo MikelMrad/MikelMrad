@@ -17,10 +17,10 @@
 
 ### 💻 Languages
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript) ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 
 ---
 
 ### 📦 Frameworks & Libraries
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />&nbsp; <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs) ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express) ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql) ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux) ![Liquid](https://img.shields.
