@@ -23,4 +23,16 @@
 
 ### 📦 Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs) ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express) ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql) ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux) ![Liquid](https://img.shields.
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs) ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express) ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql) ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux) ![Liquid](https://img.shields.io/badge/Liquid-black?style=for-the-badge&logo=shopify)
+
+---
+
+### 🛠️ Technologies & Tools
+
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3) ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss) ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git) ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker) ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma) ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop) ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman) ![Shopify](https://img.shields.io/badge/Shopify-black?style=for-the-badge&logo=shopify)
+
+---
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
